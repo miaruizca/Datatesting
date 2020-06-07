@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591546766249.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2245265638",
+    "id" : "DD781627",
+    "lastKnownWriteTime" : 1591546797,
+    "last_content_update" : 1591546797741,
+    "path" : "~/R/Datatesting/DatatestingScript1.R",
+    "project_path" : "DatatestingScript1.R",
+    "properties" : {
+        "cursorPosition" : "0,13",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
